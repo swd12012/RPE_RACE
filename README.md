@@ -8,3 +8,4 @@ It was run on a MiSeq.
 
 Fastq files were aligned to the GRCm38 mouse genome with hisat2 (v2.2.1) and counted with featureCounts (subread v2.0.1).
 
+Downstream analysis was performed with R and the DESeq2 package.
