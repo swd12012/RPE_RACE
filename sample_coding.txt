@@ -1,2 +1,4 @@
-815OD	P1	P1.bam
-UTD2	P2	P2.bam
+815OD1	P1-1	P1-1.bam
+UTD21	P2-1	P2-1.bam
+815OD2	P1-2	P1-2.bam
+UTD22	P2-2	P2-2.bam
