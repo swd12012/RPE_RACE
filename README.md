@@ -16,7 +16,7 @@ Unfortunately, when I plotted the data, there were 3000+ DEGs, and the volcano p
 
 I did make a heatmap, though the ENSEMBL IDs were pretty useless as well.
 
-I put the ENSEMBL IDs into [this website](https://biotools.fr/mouse/ensembl_symbol_converter) to generate a gene symbol list:
+I put the ENSEMBL IDs into [this website](https://biotools.fr/mouse/ensembl_symbol_converter) to generate a gene symbol list of the top 30 DEGs that are in the heatmap:
 
 | ENSEMBL ID         | Gene symbol   |
 |--------------------|---------------|
