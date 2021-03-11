@@ -1,0 +1,5 @@
+Sample	Condition
+P1-1	Untreated
+P2-1	Treated
+P1-2	Untreated
+P2-2	Treated
